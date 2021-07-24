@@ -14,7 +14,7 @@ An application for buying and selling products which are close to their expirati
 
 ## Deployed application
 
-The application is running in the staging environment at https://csse-s302g5.canterbury.ac.nz/prod.
+The application is deployed at https://csse-s302g5.canterbury.ac.nz/prod.
 
 You can create and account or login to the example account with the following credentials: \
 Username: example@seng302.com \
